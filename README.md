@@ -47,12 +47,11 @@ El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento
 >
 >Bus estandar: PCI Express 4.0
 
->OpenGL:4.6
+>OpenGL: 4.6
 
 >Memoria:16GB GDDR6X
 
->Reloj de núcleo
-2205 MHz
+>Reloj de núcleo: 2205 MHz
 
 >Reloj de impulso: 2535 MHz
 
