@@ -68,7 +68,7 @@ La tarjeta gráfica RTX 4080x es una excelente opción para usar con un AMD Ryze
 
 
 - ### Tarjeta Madre ROG STRIX B650E-F
-### Precio $294.99
+### Precio [$294.99](https://pcpartpicker.com/product/s8nypg/asus-rog-strix-b650e-f-gaming-wifi-atx-am5-motherboard-rog-strix-b650e-f-gaming-wifi)
 ![Tarjeta Madre ROG STRIX B650E-F](https://cdna.pcpartpicker.com/static/forever/images/product/b950287e2f141caa4638fc93dc99a6ba.256p.jpg)
 ### Caracteristicas
 
