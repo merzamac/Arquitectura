@@ -40,7 +40,7 @@ El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento
 
 
 - ### Tarjeta gráfica RTX 4080X
-### Precio $1199.00
+### Precio [$1199.00](https://pcpartpicker.com/product/yRLFf7/asus-tuf-gaming-geforce-rtx-4080-16-gb-video-card-tuf-rtx4080-16g-gaming)
 ![Tarjeta gráfica RTX 4080X](https://cdna.pcpartpicker.com/static/forever/images/product/aef4e454e4cf6d050fab1c51f63a8b3a.256p.jpg)
 ### Caracteristicas
 >Fabricante
@@ -58,7 +58,7 @@ Asus
 >Reloj de memoria efectivo
 22400 MHz
 
-[Saber mas...](https://pcpartpicker.com/product/yRLFf7/asus-tuf-gaming-geforce-rtx-4080-16-gb-video-card-tuf-rtx4080-16g-gaming)
+[Saber mas...](https://www.asus.com/latin/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx4080-16g-gaming/techspec/)
 
 ### ¿Porque se escogio?
 La tarjeta gráfica RTX 4080x es una excelente opción para usar con un AMD Ryzen 9 7950x para efectos especiales. Esta tarjeta gráfica ofrece una gran potencia de procesamiento gráfico y memoria, lo que la hace ideal para realizar tareas intensivas como el diseño 3D, la edición de video y los efectos especiales. Además, el AMD Ryzen 9 7950x ofrece un rendimiento de procesamiento de CPU excelente para acompañar la tarjeta gráfica RTX 4080x. Esta combinación de hardware ofrece un rendimiento superior y una calidad de imagen excepcional para la creación de efectos especiales.
