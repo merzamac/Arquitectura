@@ -182,7 +182,7 @@ Se escogio una buena fuente de alimentación de 1200W, es suficiente para distri
 [Saber mas...](https://pcpartpicker.com/product/VDWBD3/corsair-icue-h100i-elite-capellix-75-cfm-liquid-cpu-cooler-cw-9060046-ww)
 
 ### ¿Porque se escogio?
-Al trabajar con un potente procesador como el que tenemos se necesita un disipador de refrigeración por agua para mantener frío el procesador y no se queme el procesador. 
+Al trabajar con un potente procesador y las tareas que tiene previsto hacer el ordenador,  necesitamos que nuestro sistema de enfriamiento cumpla con el objetivo de mantener una buena temperatura y eso lo lograremos con un disipador de refrigeración liquida.
 
 
 - ### Ventilador SickleFlow 62 CFM
@@ -200,7 +200,7 @@ Al trabajar con un potente procesador como el que tenemos se necesita un disipad
 [Saber mas...](https://pcpartpicker.com/product/FCvqqs/cooler-master-sickleflow-62-cfm-120-mm-fans-3-pack-mfx-b2dn-183pa-r1)
 
 ### ¿Porque se escogio?
-Ademas de tener el refriegerador liquido para mantener frio el procesador, el ventilador SickleFlow 62 CFM mantiene los demás componentes frios.
+Ademas de tener el refriegerador liquido para mantener a una buena temperatura al procesador, el ventilador SickleFlow 62 CFM ayudara al sistema de enfriamiento.
 
 
 - ### Caja GT502 ATX
