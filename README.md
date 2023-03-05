@@ -1,5 +1,11 @@
-# Arquitectura
-# Tarea
+# Arquitectura Facyt
+## Trabajo hecho por: 
+>Harold Franco
+>CI:28.330.946
+
+>Moises Merza
+.CI: 25.547.115
+
 ## Tema: Computador especializado en Produccion audiovisual y Efectos especiales
 
 El objetivo de un ordenador para producción audiovisual es proporcionar una herramienta flexible para la creación de contenido de calidad profesional. La computadora debe poder ejecutar programas de edición y composición, así como otros programas relacionados con la producción audiovisual. Además, el ordenador debe tener la capacidad de almacenar y editar archivos de audio y video de alta calidad.
@@ -235,11 +241,3 @@ La pasta térmica  PK-3 funciona como un enlace entre el procesador y el sistema
 
 
 ## Presupuesto total $2989.93
-
-## Trabajo hecho por: 
-Harold Franco
-CI:28.330.946
-
-Moises Merza
-CI: 25.547.115
-
