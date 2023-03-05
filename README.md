@@ -20,7 +20,7 @@ El objetivo de un ordenador para producción audiovisual es proporcionar una her
 
 >Frecuencia de base del reloj: 4.5GHz
 
->Soporte a características de overclocking: Si, 5.7GHz
+>Soporte Overclocking: Si, 5.7GHz
 
 >Caché L1: 1MB
 
