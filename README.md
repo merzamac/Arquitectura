@@ -81,6 +81,9 @@ AM5
 >Factor de forma
 ATX
 
+>Chipset
+AMD B650E
+
 >Memoria máxima
 128GB
 
@@ -88,6 +91,15 @@ ATX
 DDR5
 
 >Ranuras de memoria
+4
+
+>PCIe x16 Slots
+2
+
+>PCIe x1 Slots
+2
+
+>SATA 6.0 Gb/s
 4
 
 [Saber mas...](https://pcpartpicker.com/product/s8nypg/asus-rog-strix-b650e-f-gaming-wifi-atx-am5-motherboard-rog-strix-b650e-f-gaming-wifi)
