@@ -46,7 +46,7 @@ El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento
 
 ### ¿CPU LIMITED? El procesador seleccionado, trabajando en conjunto con la tarjeta gráfica,¿promueve la creación de cuellos de botella? Explique.
 
-AMD Ryzen 9 7950X y NVIDIA GeForce RTX 4080 funcionarán muy bien juntos en una resolución de pantalla de 1920 × 1080 píxeles para tareas intensivas de tarjetas gráficas. Esta configuración tiene un 2.5% de cuello de botella en la tarjeta gráfica . Todo lo que esté por debajo del 5% no debería ser motivo de gran cuello de botella.
+AMD Ryzen 9 7950X y NVIDIA GeForce RTX 4080 funcionarán muy bien juntos en una resolución de pantalla de 1920 × 1080 píxeles y 2048 × 1152 píxeles para tareas intensivas de tarjetas gráficas. Esta configuración tiene un 2.5% de cuello de botella en la tarjeta gráfica . Todo lo que esté por debajo del 5% no debería ser motivo de gran cuello de botella.
 
 Mientras se ejecutan tareas intensas de la tarjeta gráfica, se utilizará el procesador AMD Ryzen 9 7950X 97.5% y la tarjeta gráfica NVIDIA GeForce RTX 4080 100.0% .
 
