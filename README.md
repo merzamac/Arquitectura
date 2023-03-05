@@ -1,10 +1,10 @@
 # Arquitectura Facyt
 ## Trabajo hecho por: 
->Harold Franco \n
-CI:28.330.946
+>Harold Franco 
+>CI:28.330.946
 
 >Moises Merza
-CI: 25.547.115
+>CI: 25.547.115
 
 ## Tema: Computador especializado en Produccion audiovisual y Efectos especiales
 
