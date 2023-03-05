@@ -44,6 +44,12 @@ PCIe® 5.0/DDR5
 ### ¿Porque se escogio?
 El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento de efectos especiales. Ofrece una mayor cantidad de núcleos y threads, además de una mayor frecuencia de reloj, lo que le permite realizar tareas de procesamiento más rápido que los procesadores Intel. Además, los usuarios también pueden disfrutar de los beneficios de la tecnología de memoria de alto rendimiento de AMD, lo que les permite aprovechar al máximo el rendimiento del procesador.
 
+###¿CPU LIMITED? El procesador seleccionado, trabajando en conjunto con la tarjeta gráfica,¿promueve la creación de cuellos de botella? Explique.
+
+AMD Ryzen 9 7950X y NVIDIA GeForce RTX 4080 funcionarán muy bien juntos en una resolución de pantalla de 1920 × 1080 píxeles para tareas intensivas de tarjetas gráficas. Esta configuración tiene un 2.5% de cuello de botella en la tarjeta gráfica . Todo lo que esté por debajo del 5% no debería ser motivo de gran cuello de botella.
+
+Mientras se ejecutan tareas intensas de la tarjeta gráfica, se utilizará el procesador AMD Ryzen 9 7950X 97.5% y la tarjeta gráfica NVIDIA GeForce RTX 4080 100.0% .
+
 
 - ### Tarjeta gráfica RTX 4080X
 ### Precio [$1199.00](https://pcpartpicker.com/product/yRLFf7/asus-tuf-gaming-geforce-rtx-4080-16-gb-video-card-tuf-rtx4080-16g-gaming)
@@ -108,7 +114,9 @@ DDR5
 >SATA 6.0 Gb/s
 4
 
->Soporte de SLINo.
+>Soporte de SLI: No.
+
+>Tipo de Material utilizado en la fabricación de los condensadores: Polímero sólido
 
 
 [Saber mas...](https://rog.asus.com/latin/motherboards/rog-strix/rog-strix-b650e-f-gaming-wifi-model/spec/)
