@@ -45,18 +45,22 @@ El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento
 ### Caracteristicas
 >Fabricante
 Asus
+>Bus estandar: PCI Express 4.0
 
->Memoria
-16 GB
+>OpenGL:4.6
+
+>Memoria:16GB GDDR6X
 
 >Reloj de núcleo
 2205 MHz
 
->Reloj de impulso
-2535 MHz
+>Reloj de impulso: 2535 MHz
 
->Reloj de memoria efectivo
-22400 MHz
+>Boost Clock: 2505 MHz
+
+>Nucleos CUDA: 9728
+
+>Velocidad de Memoria: 22.4 Gbps
 
 [Saber mas...](https://www.asus.com/latin/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx4080-16g-gaming/techspec/)
 
