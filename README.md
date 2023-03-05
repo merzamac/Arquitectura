@@ -102,7 +102,10 @@ DDR5
 >SATA 6.0 Gb/s
 4
 
-[Saber mas...](https://pcpartpicker.com/product/s8nypg/asus-rog-strix-b650e-f-gaming-wifi-atx-am5-motherboard-rog-strix-b650e-f-gaming-wifi)
+>Soporte de SLINo.
+
+
+[Saber mas...](https://rog.asus.com/latin/motherboards/rog-strix/rog-strix-b650e-f-gaming-wifi-model/spec/)
 
 ### ¿Porque se escogio?
 La Tarjeta madre Asus ROG STRIX B650E-F es una buena opción para trabajar en conjunto con el procesador AMD Ryzen 9 7950x y la tarjeta de vídeo rtx 4080x en el área de efectos especiales debido a su compatibilidad con la mayoría de los componentes de alta gama, su gran capacidad de overclocking y su rendimiento confiable y estable. Además, esta placa base cuenta con una serie de características diseñadas específicamente para el gaming y la edición de video, como una conectividad de red mejorada y soporte para múltiples tarjetas gráficas.
