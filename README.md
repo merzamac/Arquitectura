@@ -1,7 +1,7 @@
 # Arquitectura Facyt
 ## Trabajo hecho por: 
 >Harold Franco 
->CI:28.330.946
+>CI: 28.330.946
 
 >Moises Merza
 >CI: 25.547.115
