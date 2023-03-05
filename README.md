@@ -13,7 +13,9 @@ El objetivo de un ordenador para producción audiovisual es proporcionar una her
 >Tipo de Arquitectura: "Zen 4"
 
 >N.° de núcleos de CPU: 16
+
 >N.° de subprocesos: 32
+
 >N.° de hilos: 32
 
 >Frecuencia de base del reloj: 4.5GHz
