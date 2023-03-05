@@ -44,7 +44,7 @@ PCIe® 5.0/DDR5
 ### ¿Porque se escogio?
 El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento de efectos especiales. Ofrece una mayor cantidad de núcleos y threads, además de una mayor frecuencia de reloj, lo que le permite realizar tareas de procesamiento más rápido que los procesadores Intel. Además, los usuarios también pueden disfrutar de los beneficios de la tecnología de memoria de alto rendimiento de AMD, lo que les permite aprovechar al máximo el rendimiento del procesador.
 
-###¿CPU LIMITED? El procesador seleccionado, trabajando en conjunto con la tarjeta gráfica,¿promueve la creación de cuellos de botella? Explique.
+### ¿CPU LIMITED? El procesador seleccionado, trabajando en conjunto con la tarjeta gráfica,¿promueve la creación de cuellos de botella? Explique.
 
 AMD Ryzen 9 7950X y NVIDIA GeForce RTX 4080 funcionarán muy bien juntos en una resolución de pantalla de 1920 × 1080 píxeles para tareas intensivas de tarjetas gráficas. Esta configuración tiene un 2.5% de cuello de botella en la tarjeta gráfica . Todo lo que esté por debajo del 5% no debería ser motivo de gran cuello de botella.
 
